@@ -1,0 +1,4 @@
+"use strict"; //строгий режим
+let a = parseInt('5px');
+let b = parseInt('6px');
+alert(a + b);
