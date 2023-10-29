@@ -1,0 +1,8 @@
+h2:nth-of-type(even) {
+	
+	color: red;
+}
+h2:nth-last-of-type(odd) {
+
+	color: green;
+}

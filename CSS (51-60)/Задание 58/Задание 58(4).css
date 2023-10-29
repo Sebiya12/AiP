@@ -1,0 +1,13 @@
+#zzz {
+	
+	background-image: url(maxresdefault.jpg);
+	background-position: bottom right;
+	background-size: cover;
+	background-attachment: scroll;
+	background-clip: border-box;	
+	
+}
+p {
+	color:red;
+	text-align: center;
+}

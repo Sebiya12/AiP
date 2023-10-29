@@ -1,0 +1,8 @@
+#elem {
+    
+	border-color: blue;
+   	border-width: 11px;
+	border-style: double;
+	width: 400px;
+	height: 300px;
+}
