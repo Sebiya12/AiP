@@ -1,0 +1,45 @@
+#elem1 {
+	position: relative;
+
+
+	width: 200px;
+	height: 430px;
+	margin: 0px auto;
+	border: 1px solid black;
+}
+#elem2 {
+	position: absolute;
+	top: 50px;
+	left:50px;
+
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background: red ;
+	border: 1px solid black;
+	border-radius: 50px; 
+}
+#elem3 {
+	position: absolute;
+	top: 160px;
+	left: 50px;
+
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background: yellow ;
+	border: 1px solid black;
+	border-radius: 50px; 
+}
+#elem4 {
+	position: absolute;
+	top: 270px;
+	left: 50px;
+
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	border: 1px solid black;
+	background: green ;
+	border-radius: 50px; 
+}

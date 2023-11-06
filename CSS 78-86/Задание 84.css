@@ -1,0 +1,28 @@
+#elem {
+	position: relative;
+	
+	width: 300px;
+        height: 200px;
+	
+	border: 1px solid green;
+	margin: 0px auto
+}
+#elem1 {
+	position: absolute;
+	top:    0px;
+	left:   -50px;
+	
+	border: 1px solid red;
+	width: 30px;
+        height: 30px;
+}
+#elem2 {
+	position: absolute;
+	top:    0px;
+	right:  -50px;
+
+	
+	border: 1px solid red;
+	width: 30px;
+        height: 30px;
+}
