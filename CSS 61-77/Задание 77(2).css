@@ -1,0 +1,16 @@
+.parent {
+	width: 900px;
+	height: 400px;
+	border: 1px solid red;
+	display: flex;
+	justify-content: space-between;
+
+
+}
+.child {
+	
+	border: 1px solid green;
+	width: 100px;
+	height: 50px;
+
+}

@@ -1,0 +1,16 @@
+#ccc {
+	wedth: 300px;
+	height: 100px;
+	border: 1px solid red;
+	margin-bottom: 50px;
+	
+}
+#bbb {
+
+	wedth: 300px;
+	height: 100px;
+	border: 15px solid orange;
+	margin-tp: 10px;
+	box-sizing: border-box;
+	padding: 30px;
+}	

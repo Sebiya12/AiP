@@ -1,0 +1,17 @@
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+	text-align: right;
+	padding-right:10px;
+}
+.child {
+	width: 100px;
+	padding: 10px;
+	border: 1px solid green;
+
+}
+a {
+	display: inline-block;
+	text-align: center;
+	
+}
