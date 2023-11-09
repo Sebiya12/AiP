@@ -1,0 +1,12 @@
+#elem {
+	width: 400px;
+	text-align: justify;
+}
+#img1 { 
+	float: left;
+
+}
+#img2 {
+
+	float: right;
+}

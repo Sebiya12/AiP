@@ -1,0 +1,20 @@
+#elem {
+	width: 600px;
+	border: 1px solid green;
+	padding: 20px;
+	text-align: justify;
+}
+#img1 { 
+	float: left;
+	margin-right: 20px;
+        margin-bottom: 10px;
+	
+
+}
+#img2 {
+	float: right;
+	margin-left: 20px;
+	margin-top: 20px;
+        margin-bottom: 10px;
+
+}
