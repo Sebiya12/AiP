@@ -1,0 +1,27 @@
+#menu {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#menu a {
+    	
+	box-sizing: border-box;
+    	margin-right: 10px;
+    	padding: 10px 25px;
+    	font: 16px Arial;
+    	text-decoration: none;
+    	color: white;
+    	border: 1px solid #16A177;
+    	background-color: #16A177;
+}
+#menu a:hover, #menu a.active {
+    	
+	box-sizing: border-box;
+   	margin-right: 10px;
+   	padding: 10px 25px;
+    	font: 16px Arial;
+    	text-decoration: none;
+    	color: #16A177;
+    	border: 1px solid #16A177;
+    	background-color: white;
+}

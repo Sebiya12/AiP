@@ -1,0 +1,18 @@
+#menu {
+	display: flex;
+    	justify-content: center;
+	align-items: center;
+	background-color: #16A177;
+}
+#menu a {
+    	
+	box-sizing: border-box;
+    	padding: 10px 25px;
+    	font: 16px Arial;
+    	text-decoration: none;
+    	color: white;
+}
+#menu a:hover, #menu a.active {
+    	
+    	background-color: #16785C ;
+}
