@@ -1,0 +1,5 @@
+1. выведет object
+2. выведет object
+3. выведет object
+4. выведет number
+5. выведет number
